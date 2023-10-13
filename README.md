@@ -6,13 +6,13 @@
 # VERSION
 **Model A**
 - v.1.5
-create
-endpoint?cmd=create::[db name]
+  - create
+  - endpoint?cmd=create::[db name]
 
-read
-endpoint?cmd=read::[db name]![table name]![colum name]
+  - read
+  - endpoint?cmd=read::[db name]![table name]![colum name]
 
-update
-endpoint?cmd=update::[db name]![table name]![colum name]![value]
+  - update
+  - endpoint?cmd=update::[db name]![table name]![colum name]![value]
 
 
