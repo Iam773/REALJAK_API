@@ -1,0 +1,9 @@
+create
+endpoint?cmd=create::[db name]
+
+read
+endpoint?cmd=read::[db name]![table name]![colum name]
+
+update
+endpoint?cmd=update::[db name]![table name]![colum name]![value]
+
